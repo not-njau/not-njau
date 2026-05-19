@@ -1,7 +1,6 @@
 - 👋 Hi, I’m William Njau
 - 👀 I’m interested in lisp and other functional programming languages
-- 🌱 I’m currently learning Clojure
-- 💞️ I’m looking to collaborate on any clojure projects
+- 🌱 I’m currently learning Clojure while building extensions in Roam Research
 - 📫 How to reach me https://twitter.com/not_njau
 
 <!---
